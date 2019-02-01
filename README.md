@@ -1,2 +1,0 @@
-# reactStateChallenge
-Created with CodeSandbox
